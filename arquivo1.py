@@ -7,3 +7,5 @@ print(lista)
 
 #ls (list) --> pd-se usar ls -al (para ver os arquivos ocultos) no git bash
 #Já no powershell usa-se Get-ChieldItem (ls) e Get-ChieldItem(para ls -al) pelo q entendi
+
+#Mudanças
